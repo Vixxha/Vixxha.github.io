@@ -1,0 +1,380 @@
+{
+  "basics": {
+    "name": "Alexis Ortega 🧑‍💻",
+    "label": "Desarrollador Junior",
+    "image": "/Shinji2.jpg",
+    "email": "alexisortega1928@gmail.com",
+    "phone": "+56968592039",
+    "url": "https://www.linkedin.com/in/alexisortegacaruso",
+    "summary": "Desarrollador junior Fullstack, Con experencia en sistema de bases de datos tambien colaborador en block de ANFA ",
+    "theme": "blue",
+    "location": {
+      "address": "",
+      "postalCode": "6513491",
+      "city": "Santiago",
+      "countryCode": "+56",
+      "region": "Chile"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alexisortegacaruso",
+        "url": "https://www.linkedin.com/in/alexisortegacaruso"
+      },
+      
+      {
+        "network": "GitHub",
+        "username": "vixxha",
+        "url": "https://github.com/Vixxha"
+      }
+
+    ]
+  },
+  "work": [
+    {
+      "position": "Encargado de registro de datos",
+      "location": "Santiago centro-Chile ",
+      "startDate": "03/01/2024",
+      "endDate": "02/04/2024",
+      "summary": "",
+      "highlights": [
+        "Improved website performance by optimizing code"
+      ],
+      "responsibilities": [
+        "Encargado de registrar y actualizar diariamente grandes volúmenes de información en bases de datos, asegurando la integridad y coherencia de los datos",
+        "Participé en la digitalización y migración de datos desde plataformas antiguas a sistemas más modernos, optimizando la estructura y el acceso a la información.",
+        "Realicé mejoras en los procesos de recolección y registro de datos, aplicando buenas prácticas de seguridad y calidad de la información.",
+        "Coordiné con el equipo de desarrollo para asegurar la correcta integración de los datos en sistemas web y aplicaciones internas."
+      ],
+      "skills": [
+        "SQL",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "ANFA (Asociación Nacional de Fútbol Amateur de Chile)",
+      "position": "Desarrollador Web Full Stack",
+      "location_type": "Presencial",
+      "location": "Santiago Centro, Chile",
+      "startDate": "2024-04-11",
+      "endDate": "2024-08-11",
+      "summary": "Desarrollo y mantenimiento de una plataforma web interna para la gestión de datos de equipos y jugadores. Participación activa en el diseño, implementación y mejora de la base de datos institucional.",
+
+      "responsibilities": [
+      "Desarrollé y mantuve servicios backend utilizando Django y bases de datos relacionales como MySQL.",
+      "Integré componentes del front-end con la lógica del servidor usando HTML, CSS y JavaScript.",
+      "Migré y estructuré datos desde registros físicos y sistemas antiguos hacia una base de datos moderna, asegurando su integridad.",
+      "Apliqué buenas prácticas de desarrollo seguro, incluyendo autenticación, autorización y cifrado de contraseñas con bcrypt.",
+      "Participé en reuniones técnicas y de coordinación para alinear el desarrollo con los objetivos funcionales del proyecto."],
+
+      "skills": [
+        "Python",
+        "Django",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+
+    {
+    "name": "Junior Achievement Chile Institute",
+    "position": "Voluntario en Programación y Tecnología",
+    "location_type": "Presencial",
+    "location": "Santiago, Chile",
+    "startDate": "10/07/2024",
+    "endDate": "10/07/2024",
+    "summary": "Apoyo en la enseñanza y difusión de conceptos de programación y tecnología a jóvenes en formación. Participación activa en iniciativas educativas que fomentan el pensamiento computacional y el uso de herramientas modernas de desarrollo.",
+    
+    "responsibilities": [
+      "Guié a estudiantes en la comprensión de lenguajes de programación como Python y JavaScript, adaptando contenidos técnicos a un lenguaje accesible."
+    ],
+
+    "skills": [
+      "Python",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Scrum",
+      "Git"
+      ]
+      },
+
+      {
+      "name": "HP Innovation Camp (Junior Achievement Chile)",
+      "url": "https://comeduc.cl/comeduc-realiza-innovation-camp-hp-2023-con-6-de-sus-liceos",
+      "position": "Ganador del Primer Lugar – Desarrollador Web y Colaborador en Prototipo",
+      "location_type": "Presencial",
+      "location": "Santiago, Chile",
+      "startDate": "2023-08-24",
+      "endDate": "2023-08-24",
+      "summary": "Participación destacada en el HP Innovation Camp como parte de un equipo multidisciplinario. Me encargué del desarrollo completo de la página web para presentar el proyecto y colaboré en la integración y prueba del prototipo basado en OpenCV, lo que nos llevó a obtener el primer lugar.",
+
+      "responsibilities": [
+        "Diseñé y programé la página web del proyecto, utilizando HTML, CSS y JavaScript, asegurando una presentación clara y efectiva del sistema.",
+        "La web permitió visualizar el funcionamiento del prototipo, siendo una parte clave de la presentación ante el jurado.",
+        "Colaboré en la integración del prototipo con el entorno de presentación y asistí en pruebas funcionales del sistema desarrollado con OpenCV.",
+        "Apoyé al equipo en la organización y comunicación técnica del proyecto usando metodologías ágiles.",
+        "Nuestro equipo fue reconocido con el primer lugar entre todos los participantes del evento organizado por HP."
+      ],
+
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python (colaboración en OpenCV)",
+        "Diseño Web",
+        "Trabajo en equipo",
+        "Scrum"
+      ]
+}
+
+
+
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+   {
+    "institution": "INACAP",
+    "url": "https://www.inacap.cl",
+    "area": "Ingeniería en Informática",
+    "studyType": "Carrera Profesional",
+    "startDate": "2024-03-01",
+    "endDate": null,
+    "score": "",
+    "courses": [
+      "Fundamentos de la Programación",
+      "Base de Datos Relacionales",
+      "Redes de Datos",
+      "Desarrollo Web",
+      "Sistemas Operativos",
+      "Metodologías Ágiles"]
+  },
+{
+  "institution": "Instituto Superior de Comercio Joaquín Vera Morales (INSUCO 2)",
+  "url": "https://insucodos.cl",
+  "area": "Programación nivel medio",
+  "studyType": "Técnico de Nivel Medio",
+  "startDate": "2019-03-01",
+  "endDate": "2023-12-01",
+  "score": "",
+  "courses": [
+    "Programación en Java",
+    "Soporte de Hardware y Software",
+    "Diseño de Sitios Web",
+    "Introducción a Bases de Datos"
+  ]
+}
+
+  ],
+  "certificates": [
+    {
+      "name": "Introducción a la Ciberseguridad",
+      "date": "2023-08-24",
+      "issuer": "Cisco Networking Academy",
+      "url": "https://drive.google.com/file/d/1KQsz2QnkXGgBvRJ6O4paumvBaMBUWj1o/view?usp=sharing"
+    },
+  {
+      "name": "Introducción a Python",
+      "date": "2023-08-24",
+      "issuer": "Cisco Networking Academy",
+      "url": "https://drive.google.com/file/d/1KQsz2QnkXGgBvRJ6O4paumvBaMBUWj1o/view?usp=drive_link"
+    },
+
+  {
+      "name": "design thinking",
+      "date": "2023-05-01",
+      "issuer": "HP",
+      "url": "https://drive.google.com/file/d/1fvubhCRdLao3KWAkZeZGTFs2wW8lbrin/view?usp=drive_link"
+    },
+  {
+      "name": "Los fundamentos de la programación en Python",
+      "date": "2023-05-01",
+      "issuer": "",
+      "url": "https://drive.google.com/file/d/1oImNd9AIY1Eb0vd9ctO9WivpcL8dBVUN/view?usp=drive_link"
+    },
+  {
+      "name": "CERTIFICADO DE TÍTULO TÉCNICO PROFESIONAL",
+      "date": "2024-11-28",
+      "issuer": "Tecnico profesional en programacion",
+      "url": "https://drive.google.com/file/d/1z9VFgZeYvYK4WcqK2bYtAwX9b_-tBjQ8/view?usp=drive_link"
+    }
+    
+    ],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+    
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+  ],
+  
+  "projects": [
+    {
+      "name": "Portafolio Personal - Alexis Ortega",
+      "isActive": true,
+      "description": "Sitio web personal desarrollado para mostrar mis proyectos, habilidades y experiencia como Ingeniero en Informática.",
+      "highlights": [
+        "Desarrollado con Django, HTML, CSS y Tailwind CSS",
+        "Incluye blog, formulario de contacto y presentación de proyectos",
+        "Integración con bases de datos y buenas prácticas de seguridad"
+      ],
+      "url": "https://alexisortega.dev", 
+      "github": "https://github.com/Vixxha/Web_con_django"
+      }
+  ]
+}

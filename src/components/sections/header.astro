@@ -1,0 +1,49 @@
+---
+// No necesitas importar nada por ahora
+---
+
+<header class="site-header">
+  <div class="container">
+    <h1 class="logo"><a href="/">MiSitio</a></h1>
+    <nav class="main-nav">
+      <a href="/">Inicio</a>
+      <a href="/about">Acerca</a>
+      <a href="/contact">Contacto</a>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    background-color: #1e1e1e;
+    color: white;
+    padding: 1rem 0;
+  }
+
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .logo a {
+    text-decoration: none;
+    color: #ff8c00;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  .main-nav a {
+    color: white;
+    margin-left: 1rem;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+
+  .main-nav a:hover {
+    color: #ff8c00;
+  }
+</style>
